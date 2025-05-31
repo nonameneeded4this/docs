@@ -12,7 +12,7 @@ authors:
 
 This tutorial shows you how you can set up Bluetooth Low Energy (BLE) communication using the ESP32-S3 Mini and the Arduino IDE. We'll make the ESP32 advertise itself as a BLE server and send out `"Hello World!"` notifications every second. You'll be able to connect to it with your smartphone using an app like LightBlue or nRF Connect and see live data streaming. This can be used for IOT projects later on, it is especially useful for sending sensor readings, triggering actions, or setting up wireless communication in any embedded project.
 
-## Learning Objectives
+## Learning Goals
 
 - Use Arduino to program BLE functionality on ESP32  
 - Create a BLE service and characteristic  
